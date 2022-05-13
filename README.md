@@ -19,7 +19,7 @@ This part includes classical topic models, which heavily based on statistical mo
 
 # 🤖 Deep Topic Models
 This part revolves around topic modelling techniques with the adoption of deep learning models.
-- BERTopic [[Paper](https://arxiv.org/abs/2203.05794) [Github](https://github.com/MaartenGr/BERTopic)]
+- BERTopic [[Paper](https://arxiv.org/abs/2203.05794)] [[Github](https://github.com/MaartenGr/BERTopic)]
 
 # 🌱 Semi-supervised topic models (SSTM(
 SSTM allows users to inject prior knowledge about topics into topic models
@@ -34,5 +34,5 @@ DTMs re set of topic models that take into account the evolution of topic throug
 
 
 # Topic Model Libraries
-- OCTIS: Comparing Topic Models is Simple! A python package to optimize and evaluate topic models (accepted at EACL2021 demo track) [Github](https://github.com/MIND-Lab/OCTIS)
-- Topic modeling using Gensim [Article](https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/)
+- OCTIS: Comparing Topic Models is Simple! A python package to optimize and evaluate topic models (accepted at EACL2021 demo track) [[Github](https://github.com/MIND-Lab/OCTIS)]
+- Topic modeling using Gensim [[Article](https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/)]
