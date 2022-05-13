@@ -21,7 +21,7 @@ This part includes classical topic models, which heavily based on statistical mo
 This part revolves around topic modelling techniques with the adoption of deep learning models.
 - BERTopic [[Paper](https://arxiv.org/abs/2203.05794)] [[Github](https://github.com/MaartenGr/BERTopic)]
 
-# 🌱 Semi-supervised topic models (SSTM(
+# 🌱 Semi-supervised topic models (SSTM)
 SSTM allows users to inject prior knowledge about topics into topic models
 - SeededLDA [[Paper](https://www.aclweb.org/anthology/E12-1021.pdf
 )] [[Github](https://github.com/koheiw/seededlda)]
