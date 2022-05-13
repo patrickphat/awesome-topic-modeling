@@ -36,10 +36,10 @@ DTMs re set of topic models that take into account the evolution of topic throug
 - Dynamic Topic Model, David Blei [[Paper](https://dl.acm.org/doi/abs/10.1145/1143844.1143859)] [[Github](https://github.com/blei-lab/dtm)]
 - Dynamic Non-negative Matrix Factorization (Dynamic NMF) [[Paper](https://www.cambridge.org/core/journals/political-analysis/article/abs/exploring-the-political-agenda-of-the-european-parliament-using-a-dynamic-topic-modeling-approach/BBC7751778E4542C7C6C69E6BF954E4B)] [[Github](https://github.com/derekgreene/dynamic-nmf)]
 
-# Surveys:
-- Topic Modelling Meets Deep Neural Networks: A Survey [[Paper](
-https://arxiv.org/pdf/2103.00498.pd://arxiv.org/pdf/2103.00498.pdf)]
-
 # Topic Model Libraries
 - OCTIS: Comparing Topic Models is Simple! A python package to optimize and evaluate topic models (accepted at EACL2021 demo track) [[Github](https://github.com/MIND-Lab/OCTIS)]
 - Topic modeling using Gensim [[Article](https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/)]
+
+# Surveys:
+- Topic Modelling Meets Deep Neural Networks: A Survey [[Paper](
+https://arxiv.org/pdf/2103.00498.pd://arxiv.org/pdf/2103.00498.pdf)]
