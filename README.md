@@ -2,9 +2,9 @@
 
 # Awesome Topic Modeling
 ![img](https://user-images.githubusercontent.com/45748186/168281978-755d8647-db3e-4235-a6fd-25dd63faa271.png)
-</div>
 *All methods, libraries and resources for exploring topics from large datasets* ✨
 
+</div>
 # 📚 Introduction
 Topic Models are a collection of machine learning models that explores topics in a large set of documents 
 
