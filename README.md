@@ -32,7 +32,7 @@ SSTM allows users to inject prior knowledge about topics into topic models
 - Anchored CorEX [[Paper](https://arxiv.org/pdf/1611.10277.pdf)] [[Github](https://github.com/gregversteeg/corex_topic)]
 
 # ⚡ Dynamic Topic Models (DTM)
-DTMs re set of topic models that take into account the evolution of topic through time
+DTMs are set of topic models that take into account the evolution of topic through time
 - Dynamic Topic Model, David Blei [[Paper](https://dl.acm.org/doi/abs/10.1145/1143844.1143859)] [[Github](https://github.com/blei-lab/dtm)]
 - Dynamic Non-negative Matrix Factorization (Dynamic NMF) [[Paper](https://www.cambridge.org/core/journals/political-analysis/article/abs/exploring-the-political-agenda-of-the-european-parliament-using-a-dynamic-topic-modeling-approach/BBC7751778E4542C7C6C69E6BF954E4B)] [[Github](https://github.com/derekgreene/dynamic-nmf)]
 
