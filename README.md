@@ -6,6 +6,7 @@
 <br>*All methods, libraries and resources for exploring topics from large datasets* ✨
 
 </div>
+
 # 📚 Introduction
 Topic Models are a collection of machine learning models that explores topics in a large set of documents 
 
