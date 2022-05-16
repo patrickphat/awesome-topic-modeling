@@ -21,7 +21,7 @@ This part includes classical topic models, which heavily based on statistical mo
 This part revolves around topic modelling techniques with the adoption of deep learning models.
 
 - Pre-training is a Hot Topic: Contextualized Document Embeddings Improve Topic Coherence [[Paper](https://aclanthology.org/2021.acl-short.96/)] [[Github](https://github.com/MilaNLProc/contextualized-topic-models)]
-- Topic Modeling with Contextualized Word Representation Clusters[[Paper](https://arxiv.org/abs/2010.12626)]
+- Topic Modeling with Contextualized Word Representation Clusters [[Paper](https://arxiv.org/abs/2010.12626)]
 - TopicBERT: Topic-aware BERT for Efficient Document Classification [[Paper](https://arxiv.org/abs/2010.16407)] [[Github](https://github.com/YatinChaudhary/TopicBERT)]
 - BERTopic [[Paper](https://arxiv.org/abs/2203.05794)] [[Github](https://github.com/MaartenGr/BERTopic)]
 
